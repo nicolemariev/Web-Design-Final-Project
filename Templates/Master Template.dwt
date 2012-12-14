@@ -13,7 +13,8 @@
     <body>
 	<div class="wrapper"> 
         	<div class="navigation">
-            <table width="951">
+            <div id="menu">
+            <table width="951" bgcolor="#526B41">
   				<tr>
     				<td width="190"><div align="center"><a href="../index.html">Home</a></div></td>
     				<td width="190"><div align="center"><a href="../about.html">About</a></div></td>
@@ -22,6 +23,7 @@
     				<td width="190"><div align="center"><a href="../Contact.html">Contact</a></div></td>
  				</tr>
 			</table>
+            </div>
           </div>
             <div class="content"><!-- TemplateBeginEditable name="Content" -->This is placeholder content.<!-- TemplateEndEditable -->
             </div>

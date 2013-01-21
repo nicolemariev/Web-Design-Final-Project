@@ -1,7 +1,7 @@
 body {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
-	background-image: url(../Images/DDD9B707BC74_0053-0000-0000_214.png);
+	background-color: #000099;
 	margin: 0px;
 	padding: 0px;
 	text-align: center;
@@ -25,7 +25,6 @@ body {
 
 
 .navigation a { color:#FFF }
-.navigation a:hover { background-color:#509E63;}
 
 .clearfix {
 	clear: both;
